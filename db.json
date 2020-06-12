@@ -1,11 +1,32 @@
+// https://my-json-server.typicode.com/brady19990517/fakeapi
 {
-  "posts": [
+  "stories": [
     {
-      "id": 1,
-      "title": "hello"
+      "storyId": 1,
+      "storyTile": "hello",
+      "storyViews": 34,
+      "storyVotes": 345,
+      "totalChapters": 12,
+      "firstChapterId": 12,
+      "storyCreateTime": "1969-07-20 20:18:04Z",
+    },
+    {
+      "storyId": 1,
+      "storyTile": "hello",
+      "storyViews": 34,
+      "storyVotes": 345,
+      "totalChapters": 12,
+      "firstChapterId": 12,
+      "storyCreateTime": "1969-07-20 20:18:04Z",
+    },
+    {
+      "storyId": 1,
+      "storyTile": "hello",
+      "storyViews": 34,
+      "storyVotes": 345,
+      "totalChapters": 12,
+      "firstChapterId": 12,
+      "storyCreateTime": "1969-07-20 20:18:04Z",
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
