@@ -2,7 +2,7 @@
   "stories":[
      {
         "storyId":1,
-        "storyTile":"hello",
+        "storyTitle":"hello",
         "storyViews":34,
         "storyVotes":345,
         "totalChapters":12,
@@ -11,7 +11,7 @@
      },
      {
         "storyId":1,
-        "storyTile":"hello",
+        "storyTitle":"hello",
         "storyViews":34,
         "storyVotes":345,
         "totalChapters":12,
@@ -20,7 +20,7 @@
      },
      {
         "storyId":1,
-        "storyTile":"hello",
+        "storyTitle":"hello",
         "storyViews":34,
         "storyVotes":345,
         "totalChapters":12,
