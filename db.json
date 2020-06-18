@@ -2,237 +2,115 @@
   "stories": [
     {
       "storyId": 1,
-      "storyTitle": "early",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:17:04Z"
+      "storyTitle": "The earliest story",
+      "storyViews": 0,
+      "storyVotes": 0,
+      "totalChapters": 0,
+      "firstChapterId": 1,
+      "storyCreateTime": "1969-07-20 20:17:04Z",
+      "userId": 1
     },
     {
-      "storyId": 1,
+      "storyId": 2,
       "storyTitle": "mostview",
       "storyViews": 100,
       "storyVotes": 345,
       "totalChapters": 12,
       "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
+      "storyCreateTime": "1969-07-20 20:18:04Z",
+      "userId": 1
     },
     {
-      "storyId": 1,
+      "storyId": 3,
       "storyTitle": "hello",
       "storyViews": 34,
       "storyVotes": 345,
       "totalChapters": 12,
       "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
-    },
-    {
-      "storyId": 1,
-      "storyTitle": "hello",
-      "storyViews": 34,
-      "storyVotes": 345,
-      "totalChapters": 12,
-      "firstChapterId": 12,
-      "storyCreateTime": "1969-07-20 20:18:04Z"
+      "storyCreateTime": "1969-07-20 20:18:04Z",
+      "userId": 1
     }
+  ],
+  "chapters":[
+    {
+      "chapterId": 1,
+      "parentChapterId": null,
+      "chapterNum": 1,
+      "chapterContext": "Once a time ago",
+      "chapterVotes": 0,
+      "userId": 1,
+      "storyId": 1,
+      "chapterCreateTime": "1969-07-20 20:17:04Z"
+    },
+    {
+      "chapterId": 2,
+      "parentChapterId": 1,
+      "chapterNum": 2,
+      "chapterContext": "Once a time ago",
+      "chapterVotes": 0,
+      "userId": 1,
+      "storyId": 1,
+      "chapterCreateTime": "1969-07-20 20:17:04Z"
+    },
+    {
+      "chapterId": 3,
+      "parentChapterId": 1,
+      "chapterNum": 2,
+      "chapterContext": "Once a time ago",
+      "chapterVotes": 0,
+      "userId": 1,
+      "storyId": 1,
+      "chapterCreateTime": "1969-07-20 20:17:04Z"
+    },
+    {
+      "chapterId": 4,
+      "parentChapterId": 1,
+      "chapterNum": 2,
+      "chapterContext": "Once a time ago",
+      "chapterVotes": 0,
+      "userId": 1,
+      "storyId": 1,
+      "chapterCreateTime": "1969-07-20 20:17:04Z"
+    },
+    {
+      "chapterId": 5,
+      "parentChapterId": 2,
+      "chapterNum": 3,
+      "chapterContext": "Once a time ago",
+      "chapterVotes": 0,
+      "userId": 1,
+      "storyId": 1,
+      "chapterCreateTime": "1969-07-20 20:17:04Z"
+    },
+    {
+      "chapterId": 6,
+      "parentChapterId": 2,
+      "chapterNum": 3,
+      "chapterContext": "Once a time ago",
+      "chapterVotes": 0,
+      "userId": 1,
+      "storyId": 1,
+      "chapterCreateTime": "1969-07-20 20:17:04Z"
+    },
+    {
+      "chapterId": 7,
+      "parentChapterId": 2,
+      "chapterNum": 3,
+      "chapterContext": "Once a time ago",
+      "chapterVotes": 0,
+      "userId": 1,
+      "storyId": 1,
+      "chapterCreateTime": "1969-07-20 20:17:04Z"
+    },
+    {
+      "chapterId": 8,
+      "parentChapterId": 4,
+      "chapterNum": 3,
+      "chapterContext": "Once a time ago",
+      "chapterVotes": 0,
+      "userId": 1,
+      "storyId": 1,
+      "chapterCreateTime": "1969-07-20 20:17:04Z"
+    },
   ]
 }
