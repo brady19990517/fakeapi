@@ -40,7 +40,8 @@
       "chapterVotes": 0,
       "userId": 1,
       "storyId": 1,
-      "chapterCreateTime": "1969-07-20 20:17:04Z"
+      "chapterCreateTime": "1969-07-20 20:17:04Z",
+      "storyTitle": "The earliest story"
     },
     {
       "chapterId": 2,
@@ -50,7 +51,8 @@
       "chapterVotes": 0,
       "userId": 1,
       "storyId": 1,
-      "chapterCreateTime": "1969-07-20 20:17:04Z"
+      "chapterCreateTime": "1969-07-20 20:17:04Z",
+      "storyTitle": "The earliest story"
     },
     {
       "chapterId": 3,
@@ -60,7 +62,8 @@
       "chapterVotes": 0,
       "userId": 1,
       "storyId": 1,
-      "chapterCreateTime": "1969-07-20 20:17:04Z"
+      "chapterCreateTime": "1969-07-20 20:17:04Z",
+      "storyTitle": "The earliest story"
     },
     {
       "chapterId": 4,
@@ -70,7 +73,8 @@
       "chapterVotes": 0,
       "userId": 1,
       "storyId": 1,
-      "chapterCreateTime": "1969-07-20 20:17:04Z"
+      "chapterCreateTime": "1969-07-20 20:17:04Z",
+      "storyTitle": "The earliest story"
     },
     {
       "chapterId": 5,
@@ -80,7 +84,8 @@
       "chapterVotes": 0,
       "userId": 1,
       "storyId": 1,
-      "chapterCreateTime": "1969-07-20 20:17:04Z"
+      "chapterCreateTime": "1969-07-20 20:17:04Z",
+      "storyTitle": "The earliest story"
     },
     {
       "chapterId": 6,
@@ -90,7 +95,8 @@
       "chapterVotes": 0,
       "userId": 1,
       "storyId": 1,
-      "chapterCreateTime": "1969-07-20 20:17:04Z"
+      "chapterCreateTime": "1969-07-20 20:17:04Z",
+      "storyTitle": "The earliest story"
     },
     {
       "chapterId": 7,
@@ -100,7 +106,8 @@
       "chapterVotes": 0,
       "userId": 1,
       "storyId": 1,
-      "chapterCreateTime": "1969-07-20 20:17:04Z"
+      "chapterCreateTime": "1969-07-20 20:17:04Z",
+      "storyTitle": "The earliest story"
     },
     {
       "chapterId": 8,
@@ -110,7 +117,8 @@
       "chapterVotes": 0,
       "userId": 1,
       "storyId": 1,
-      "chapterCreateTime": "1969-07-20 20:17:04Z"
+      "chapterCreateTime": "1969-07-20 20:17:04Z",
+      "storyTitle": "The earliest story"
     }
   ]
 }
